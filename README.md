@@ -38,11 +38,12 @@ pip install tensorflow opencv-python numpy matplotlib pillow tkinter scikit-lear
 
 ## Project Structure
 ```bash
-|-- model.h5                # Pre-trained model (ResNet-50 with custom layers)
+|-- model.h5       # Not included here as size is 115mb and github not allowed  # to be generated when you use jupiter notebook  # Pre-trained model (ResNet-50 with custom layers)
 |-- gui.py                   # Main script with Tkinter GUI for image upload and real-time predictions
 |-- README.md                # This file
+|--pred-age-gender-multioutput-keras-functional-api.ipynb     #kaggle notebook for finetuning rensnet50 with UTK dataset
 ```
-
+kaggle notebook link : (https://www.kaggle.com/code/ankitpandey1576/pred-age-gender-multioutput-keras-functional-api/edit)
 ## How to Use
 
 ### 1. Real-Time Video Capture:
