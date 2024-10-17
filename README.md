@@ -41,7 +41,6 @@ pip install tensorflow opencv-python numpy matplotlib pillow tkinter scikit-lear
 |-- model.h5                # Pre-trained model (ResNet-50 with custom layers)
 |-- gui.py                   # Main script with Tkinter GUI for image upload and real-time predictions
 |-- README.md                # This file
-|-- requirements.txt         # File containing the list of dependencies
 ```
 
 ## How to Use
