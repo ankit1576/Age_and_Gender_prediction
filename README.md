@@ -147,3 +147,7 @@ After fine-tuning the **ResNet-50** model, it achieved accurate age and gender p
 At epoch 30 these are the acuracy measures 
 ![image](https://github.com/user-attachments/assets/34e7562b-19e1-485e-b92d-a1125a75eb1c)
 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey1576/)
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ankitpandey1576)
